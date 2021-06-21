@@ -12,7 +12,8 @@ No known bugs
 ## Technologies Used
 Html and Css and JavaScript
 ## Support and contact details
-grant.okello@student.moringaschool.com on Slack 
+-grant.okello@student.moringaschool.com on Slack
+- jamesgrant964@gmail.com email
 ### License
 Read our [lincences](./Lincense)
 Copyright (c) 2021 **Grant Okello**
