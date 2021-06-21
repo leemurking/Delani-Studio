@@ -92,6 +92,7 @@ h2{
 }
 .img{
     margin: 10px;
+    
 }
 .contacts{
     background-image: url(./images/contacts.jpg);
@@ -140,4 +141,19 @@ h2{
       text-align: center;
       font-size: x-small;
   }
-  
+  #p1{
+     display: none;
+  }
+  #p2{
+    display: none;
+  }
+  #p3{
+    display: none;
+  }
+  .p3{
+      font-weight: bolder;
+      text-align: center;
+  }
+  #w4{
+      display: none;
+  }
