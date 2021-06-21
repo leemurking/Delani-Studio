@@ -1,0 +1,143 @@
+.landing{
+    background-image: url(./images/landing.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+
+.home1{
+    padding: 20% 0;
+}
+
+h1{
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    top: 50%;
+}
+
+h2{
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    top: 50%;
+}
+
+.landingp{
+    color: white;
+    text-align: center;
+}
+
+.lp{
+    position: relative;
+    left: 47.5%;
+}
+
+.lp1{
+    position: relative;
+    left: 45%;
+}
+
+.aboutus{
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+}
+
+.p1{
+    text-align: center;
+}
+.services1{
+    background-image: url(./images/services.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    padding: 100px 0;
+}
+
+.s1{
+    text-align: center;
+    color: white;
+}
+
+.services{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.what{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.portfolio1{
+    text-align: center;
+    color: black;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.about{
+    padding: 50px 0;
+}
+.whatwedo{
+    padding: 50px 0;
+}
+.portfolio{
+    padding: 50px 0;
+}
+.myportfolio{
+    justify-content: space-between;
+
+}
+.img{
+    margin: 10px;
+}
+.contacts{
+    background-image: url(./images/contacts.jpg);
+    width: 100%;
+    height: 90vh;
+}
+.contactus{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.contacts{
+    padding: 50px 0;
+}
+.contact {
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    color: #fff;
+    width: 100%;
+    padding: 5% 0;
+  }
+  .contact input{
+    background: none;
+    padding: 25px;
+    border: 1.5px solid #fff;
+  }
+  .contact textarea{
+    background: none;
+    padding: 25px;
+    border: 1.5px solid #fff;
+  }
+  ::placeholder {
+    color: #fff !important;
+    font-size: 1.1rem;
+  }
+  .outro{
+      padding: 50px 0;
+      text-align: center;
+  }
+  .end{
+      padding: 2px 0;
+      text-align: center;
+      font-size: x-small;
+  }
+  
